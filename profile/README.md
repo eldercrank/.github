@@ -16,10 +16,9 @@ works and stays out of your way.
 ## The Toolbelt
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| [stripe](https://github.com/eldercrank/stripe) | The proper way to handle Stripe payments in Python. | `Stable` |
+| [stripe](https://github.com/eldercrank/stripe) | The proper way to handle Stripe payments in Python. | `In Dev` |
 | [stripe-fastapi](https://github.com/eldercrank/stripe-fastapi) | Integration patterns that don't make a mess. | `In Dev` |
 
-> Disclaimer:  These are works in progress at the moment, patience young one.
 
 ---
 *If you find a bug, file an issue. If you want a feature I don't need, fork it.*
