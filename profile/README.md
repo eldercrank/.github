@@ -2,8 +2,8 @@
 
 **"Old enough to know better, still stubborn enough to do it right."**
 
-Welcome to the ElderCrank workshop. I build Python libraries that are boring, 
-predictable, and strictly typed. No fluff, no "magic" magic, just code that 
+Welcome to the ElderCrank workshop. I build Python libraries that are boring,
+predictable, and strictly typed. No fluff, no "magic" magic, just code that
 works and stays out of your way.
 
 ---
@@ -16,8 +16,9 @@ works and stays out of your way.
 ## The Toolbelt
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| [stripe](https://github.com/eldercrank/stripe) | The proper way to handle Stripe payments in Python. | `In Dev` |
-| [stripe-fastapi](https://github.com/eldercrank/stripe-fastapi) | Integration patterns that don't make a mess. | `In Dev` |
+| [stripe](https://github.com/eldercrank/stripe) | The proper way to handle Stripe payments in Python. Focused on data operations and webhook processing. | `In Dev` |
+| [stripe-fastapi](https://github.com/eldercrank/stripe-fastapi) | FastAPI integration for Stripe webhooks. | `In Dev` |
+| [stripe-flask](https://github.com/eldercrank/stripe-flask) | Flask integration for Stripe webhooks. | `In Dev` |
 
 
 ---
