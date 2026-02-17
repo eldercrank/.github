@@ -16,9 +16,9 @@ works and stays out of your way.
 ## The Toolbelt
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| [stripe](https://github.com/eldercrank/stripe) | The proper way to handle Stripe payments in Python. Focused on data operations and webhook processing. | `In Dev` |
-| [stripe-fastapi](https://github.com/eldercrank/stripe-fastapi) | FastAPI integration for Stripe webhooks. | `In Dev` |
-| [stripe-flask](https://github.com/eldercrank/stripe-flask) | Flask integration for Stripe webhooks. | `In Dev` |
+| [stripe-core](https://github.com/eldercrank/stripe-core) | The proper way to handle Stripe payments in Python. Focused on data operations and webhook processing. | `beta` |
+| [stripe-fastapi](https://github.com/eldercrank/stripe-fastapi) | FastAPI integration for Stripe webhooks. | `bets` |
+| [stripe-flask](https://github.com/eldercrank/stripe-flask) | Flask integration for Stripe webhooks. | `beta` |
 
 
 ---
